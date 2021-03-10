@@ -1,0 +1,5 @@
+search
+searchPage
+updateAccount
+deleteAccount
+logout

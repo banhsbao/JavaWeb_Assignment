@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/viewCart.jsp</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/UpdateQuantityServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartDetailDAO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/LoadProductServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartObject.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/search.jsp</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/CreateNewAccountServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/filter/FilterDispatcher.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/error.html</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/UpdateItemInCartServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/login/CusUpdateErrorsold.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/ConfirmCartServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/SearchLastnameServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/login/CusUpdateErrors.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/UpdateAccountServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/DeleteAccountServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/CheckoutServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/product/ProductDTO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/StartUpServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartInfoCreateNewError.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/product/ProductDAO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/login/CusDAO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/LoginServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/DeleteItemServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/createNewAccount.jsp</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/listener/ContextListener.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/ViewCartServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartInfoDAO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/confirmCart.jsp</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/LogoutServlet.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/web/WEB-INF/mapping.txt</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartDetailUpdateError.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/login/CusDTO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/login/CusCreateNewErrors.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/cart/CartDAO.java</file>
+            <file>file:/G:/FPTU's%20File/Assignment_KhanhKT/Assignment/PRJ321_Assignment/src/java/baohc/servlet/AddItemToCartServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
